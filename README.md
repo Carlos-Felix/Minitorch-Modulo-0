@@ -11,3 +11,6 @@
 ```
 python run_tests.py
 ```
+### Tarea 5
+![alt text](https://github.com/Carlos-Felix/Minitorch-Modulo-0/blob/main/_imagenes/imagen1.png?raw=true)
+![alt text](https://github.com/Carlos-Felix/Minitorch-Modulo-0/blob/main/_imagenes/imagen2.png?raw=true)
